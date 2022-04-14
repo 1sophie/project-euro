@@ -1,0 +1,335 @@
+body {
+    width: 1920px;
+    height: 2437px;
+}
+
+.main {
+    margin-top: 21.63px;
+    margin-left: 506.93px;
+    margin-right: 472.93px;
+    width: 940px;
+    height: 2347px;
+    background-color: #141529;
+    background-repeat: no-repeat;
+    align-items: center;
+    border-radius: 13px;
+}
+
+.top {
+
+    top: 22px;
+    left: 507px;
+    width: 940px;
+    height: 60px;
+    background: rgba(255, 255, 255, 0.1) 0% 0% no-repeat padding-box;
+    border-radius: 13px 13px 0px 0px;
+}
+
+#top {
+    text-align: center;
+    padding-top: 21px;
+    padding-bottom: 20px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.slots {
+    margin-left: 43.14px;
+    width: 93px;
+    height: 27px;
+    background: rgba(255, 255, 255, 0.1) 0% 0% no-repeat padding-box;
+    border-radius: 13px;
+    text-align: center;
+
+}
+
+#slots {
+    color: white;
+}
+
+h1 {
+    margin-left: 43.14px;
+    margin-top: 15px;
+    width: 629px;
+    height: 57px;
+    text-align: left;
+    font: normal normal bold 24px/28px Helvetica Neue One Caps;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    float: left;
+    position: relative;
+}
+
+#prize {
+    width: 255px;
+    height: 163px;
+    float: right;
+    position: absolute;
+    margin-top: 42px;
+    margin-left: 685px;
+}
+
+.saprizo {
+    width: 532px;
+    height: 40px;
+    float: left;
+    margin-top: 15.21px;
+    margin-left: 44.4px;
+    text-align: left;
+    font: normal normal medium 16px/20px Helvetica Neue LT GEO;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+
+}
+
+#banner {
+    margin-top: 35px;
+    width: 940px;
+    height: 350px;
+    position: relative;
+}
+
+.kvirebi {
+    width: 1000px;
+    position: absolute;
+    margin-left: 0px;
+    top: 585.84px;
+}
+
+#active {
+    margin-left: 45px;
+}
+
+.mwvane {
+    width: 274px;
+    height: 145px;
+    position: relative;
+    color: white;
+    float: left;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#kvirebi {
+    font-size: 14px;
+    top: 50%;
+    left: 50%;
+}
+
+h2 {
+    position: absolute;
+    top: 765px;
+    margin-left: 177px;
+    text-align: center;
+    font: normal normal bold 20px/26px Helvetica Neue LT GEO;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+
+.tarigebi {
+    position: absolute;
+    width: 518px;
+    height: 40px;
+    background: #1A293B 0% 0% no-repeat padding-box;
+    border-radius: 13px 13px 0px 0px;
+    margin-top: 37px;
+    top: 858px;
+    left: 718px;
+}
+
+.mwvanetarigi {
+    position: absolute;
+    margin-top: 0px;
+    width: 140px;
+    height: 40px;
+    background: #2E9EA1 0% 0% no-repeat padding-box;
+    border-radius: 13px 13px 0px 0px;
+    text-align: center;
+    color: white;
+}
+
+.tarigi {
+    margin-top: 0px;
+    margin-left: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 13px 13px 0px 0px;
+    text-align: center;
+    color: white;
+}
+
+#tarigebi {
+    font-family: MediatorNarrow-Bold;
+    font-size: 15px;
+}
+
+.konteineri {
+    position: absolute;
+    width: 940px;
+    height: 593px;
+    background: #1A293B 0% 0% no-repeat padding-box;
+    top: 934px;
+}
+
+.gverdit {
+    text-align: center;
+    position: relative;
+    width: 415px;
+    float: left;
+    color: white;
+    font-size: 18px;
+}
+
+.container_ori {
+    margin-top: 15.3px;
+    background: #203248 0% 0% no-repeat padding-box;
+    border-radius: 13px;
+    width: 415px;
+    height: 334px;
+    margin-left: 43px;
+}
+
+.container_sami {
+    margin-top: 15.3px;
+    background: #203248 0% 0% no-repeat padding-box;
+    border-radius: 13px;
+    width: 415px;
+    height: 334px;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+
+.konteineri_otxi {
+    width: 415px;
+
+}
+
+.adgili {
+    width: 100px;
+    text-align: center;
+    font: normal normal normal 12px/25px Helvetica Neue LT GEO MT;
+    letter-spacing: 0px;
+    font-size: 12px;
+    position: relative;
+    float: left;
+    margin-left: 49px;
+}
+
+.adgili_ori {
+    width: 100px;
+    height: 36px;
+    background: #000000 0% 0% no-repeat padding-box;
+    border-radius: 5px 0 0 5px;
+    font: normal normal normal 13px/20px Helvetica Neue LT GEO;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    margin-top: 27px;
+}
+
+.prizi {
+    width: 215px;
+    text-align: center;
+    font: normal normal normal 12px/25px Helvetica Neue LT GEO MT;
+    letter-spacing: 0px;
+    font-size: 12px;
+    position: relative;
+    margin-left: 150px;
+    float: left;
+    bottom: 49px;
+}
+
+.prizi_ori {
+    width: 215px;
+    height: 36px;
+    background: #000000 0% 0% no-repeat padding-box;
+    border-radius: 0px 5px 5px 0px;
+    font: normal normal normal 13px/20px Helvetica Neue LT GEO;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    margin-top: 27px;
+
+}
+
+.plus {
+    position: absolute;
+    margin-top: 276px;
+    margin-left: 410px;
+    z-index: 9;
+}
+
+.info {
+    position: absolute;
+    margin-top: 508px;
+    width: 647px;
+    color: #FFFFFF;
+    opacity: 0.67;
+    margin-left: 130px;
+    font-size: 13px;
+    text-align: center;
+}
+
+#slotebi {
+    text-align: left;
+    font: normal normal bold 24px/32px Helvetica Neue LT GEO;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    margin-top: 911px;
+}
+
+.tamashebi {
+    display: inline-block;
+}
+
+.photos {
+    width: 192px;
+    height: 224px;
+    border-radius: 13px;
+    margin-left: 16px;
+}
+
+.rules {
+    width: 854px;
+    height: 60px;
+    background: rgba(255, 255, 255, 0.1) 0% 0% no-repeat padding-box;
+    border-radius: 13px;
+    margin-left: 45px;
+    text-align: left;
+    color: white;
+}
+
+.footer {
+    height: 88px;
+    margin-top: 45px;
+    position: relative;
+}
+
+.footer_2 {
+    position: absolute;
+    top: 1px;
+    width: 940px;
+    height: 88px;
+    background: #141529 0% 0% no-repeat padding-box;
+    z-index: 11;
+}
+
+.bet {
+    background: #F05A22 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    width: 170px;
+    height: 48px;
+    margin-top: 20px;
+    margin-left: 385px;
+    color: white;
+    text-align: center;
+}
